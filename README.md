@@ -2,14 +2,6 @@
 
 Program Python untuk membaca warna secara real-time dari webcam dan melacak objek berdasarkan warnanya. Menggunakan OpenCV dan NumPy dengan ruang warna HSV.
 
-## Anggota Kelompok
-
-| No | Nama | NIM |
-|----|------|-----|
-| 1 | Fira Ramadhani | 2408107010019 |
-| 2 | Naila Hafizha | 2408107010026 |
-| 3 | Annisa Haura Dhiya | 2408107010030 |
-
 ## Fitur
 
 - Menampilkan nilai **RGB**, kode **HEX**, nilai **HSV**, dan **nama warna** secara real-time.
