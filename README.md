@@ -6,9 +6,9 @@ Program Python untuk membaca warna secara real-time dari webcam dan melacak obje
 
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | Naila | [NIM] |
-| 2 | [Nama Anggota 2] | [NIM] |
-| 3 | [Nama Anggota 3] | [NIM] |
+| 1 | Fira Ramadhani | 2408107010019 |
+| 2 | Naila Hafizha | 2408107010026 |
+| 3 | Annisa Haura Dhiya | 2408107010030 |
 
 ## Fitur
 
@@ -40,10 +40,10 @@ Program Python untuk membaca warna secara real-time dari webcam dan melacak obje
    pip install opencv-python numpy
    ```
 
-3. Jalankan program dari folder tempat `rgb_new.py` berada:
+3. Jalankan program dari folder tempat `rgb.py` berada:
 
    ```
-   python rgb_new.py
+   python rgb.py
    ```
 
 4. Jendela **Deteksi Warna v3** akan terbuka dan menampilkan hasil webcam. Gunakan tombol pada tabel di bawah untuk mengendalikan program.
@@ -88,7 +88,7 @@ Tekan `s` untuk menyimpan `hasil_deteksi.png` di folder yang sama dengan program
 
 ## Parameter yang Bisa Diubah
 
-Parameter ada di bagian atas `rgb_new.py`:
+Parameter ada di bagian atas `rgb.py`:
 
 | Parameter | Nilai Awal | Fungsi |
 |-----------|-----------|--------|
@@ -114,7 +114,7 @@ Parameter ada di bagian atas `rgb_new.py`:
 
 ```
 .
-├── rgb_new.py          # program utama
+├── rgb.py              # program utama
 ├── hasil_deteksi.png   # dibuat saat menekan tombol s
 └── README.md
 ```
